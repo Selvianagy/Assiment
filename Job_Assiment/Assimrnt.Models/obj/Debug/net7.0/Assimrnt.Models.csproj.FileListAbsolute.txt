@@ -1,0 +1,12 @@
+D:\job assiment\Job_Assiment\Assimrnt.Models\obj\Debug\net7.0\Assimrnt.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\job assiment\Job_Assiment\Assimrnt.Models\obj\Debug\net7.0\Assimrnt.Models.AssemblyInfoInputs.cache
+D:\job assiment\Job_Assiment\Assimrnt.Models\obj\Debug\net7.0\Assimrnt.Models.AssemblyInfo.cs
+D:\job assiment\Job_Assiment\Assimrnt.Models\obj\Debug\net7.0\Assimrnt.Models.csproj.CoreCompileInputs.cache
+D:\job assiment\Job_Assiment\Assimrnt.Models\bin\Debug\net7.0\Assimrnt.Models.deps.json
+D:\job assiment\Job_Assiment\Assimrnt.Models\bin\Debug\net7.0\Assimrnt.Models.dll
+D:\job assiment\Job_Assiment\Assimrnt.Models\bin\Debug\net7.0\Assimrnt.Models.pdb
+D:\job assiment\Job_Assiment\Assimrnt.Models\obj\Debug\net7.0\Assimrnt.Models.csproj.AssemblyReference.cache
+D:\job assiment\Job_Assiment\Assimrnt.Models\obj\Debug\net7.0\Assimrnt.Models.dll
+D:\job assiment\Job_Assiment\Assimrnt.Models\obj\Debug\net7.0\refint\Assimrnt.Models.dll
+D:\job assiment\Job_Assiment\Assimrnt.Models\obj\Debug\net7.0\Assimrnt.Models.pdb
+D:\job assiment\Job_Assiment\Assimrnt.Models\obj\Debug\net7.0\ref\Assimrnt.Models.dll

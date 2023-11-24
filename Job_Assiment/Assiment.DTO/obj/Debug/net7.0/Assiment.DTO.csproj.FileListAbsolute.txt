@@ -1,0 +1,15 @@
+D:\job assiment\Job_Assiment\Assiment.DTO\obj\Debug\net7.0\Assiment.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\job assiment\Job_Assiment\Assiment.DTO\obj\Debug\net7.0\Assiment.DTO.AssemblyInfoInputs.cache
+D:\job assiment\Job_Assiment\Assiment.DTO\obj\Debug\net7.0\Assiment.DTO.AssemblyInfo.cs
+D:\job assiment\Job_Assiment\Assiment.DTO\obj\Debug\net7.0\Assiment.DTO.csproj.CoreCompileInputs.cache
+D:\job assiment\Job_Assiment\Assiment.DTO\obj\Debug\net7.0\Assiment.DTO.csproj.AssemblyReference.cache
+D:\job assiment\Job_Assiment\Assiment.DTO\bin\Debug\net7.0\Assiment.DTO.deps.json
+D:\job assiment\Job_Assiment\Assiment.DTO\bin\Debug\net7.0\Assiment.DTO.dll
+D:\job assiment\Job_Assiment\Assiment.DTO\bin\Debug\net7.0\Assiment.DTO.pdb
+D:\job assiment\Job_Assiment\Assiment.DTO\bin\Debug\net7.0\Assimrnt.Models.dll
+D:\job assiment\Job_Assiment\Assiment.DTO\bin\Debug\net7.0\Assimrnt.Models.pdb
+D:\job assiment\Job_Assiment\Assiment.DTO\obj\Debug\net7.0\Assiment.DTO.csproj.CopyComplete
+D:\job assiment\Job_Assiment\Assiment.DTO\obj\Debug\net7.0\Assiment.DTO.dll
+D:\job assiment\Job_Assiment\Assiment.DTO\obj\Debug\net7.0\refint\Assiment.DTO.dll
+D:\job assiment\Job_Assiment\Assiment.DTO\obj\Debug\net7.0\Assiment.DTO.pdb
+D:\job assiment\Job_Assiment\Assiment.DTO\obj\Debug\net7.0\ref\Assiment.DTO.dll
