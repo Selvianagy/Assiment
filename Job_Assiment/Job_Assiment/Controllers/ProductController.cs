@@ -70,5 +70,17 @@ namespace Assiment.Controllers
             return products;
             
         }
+
+
+        [HttpDelete("DeleteProduct")]
+        public IActionResult DeleteProduct(int id)
+        {
+             _productService.Delete(id);
+            _unitOfWork.CommitChanges();
+
+            return Ok("Delete Success");
+
+        }
+
     }
 }

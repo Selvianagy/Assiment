@@ -15,3 +15,4 @@ D:\job assiment\Job_Assiment\Assiment.Data\obj\Debug\net7.0\refint\Assiment.Data
 D:\job assiment\Job_Assiment\Assiment.Data\obj\Debug\net7.0\Assiment.Data.pdb
 D:\job assiment\Job_Assiment\Assiment.Data\obj\Debug\net7.0\Assiment.Data.genruntimeconfig.cache
 D:\job assiment\Job_Assiment\Assiment.Data\obj\Debug\net7.0\ref\Assiment.Data.dll
+D:\job assiment\Job_Assiment\Assiment.Data\obj\Debug\net7.0\Assiment.Data.sourcelink.json

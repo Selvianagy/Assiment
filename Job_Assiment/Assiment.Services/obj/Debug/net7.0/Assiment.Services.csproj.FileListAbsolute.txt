@@ -17,3 +17,4 @@ D:\job assiment\Job_Assiment\Assiment.Services\obj\Debug\net7.0\Assiment.Service
 D:\job assiment\Job_Assiment\Assiment.Services\obj\Debug\net7.0\refint\Assiment.Services.dll
 D:\job assiment\Job_Assiment\Assiment.Services\obj\Debug\net7.0\Assiment.Services.pdb
 D:\job assiment\Job_Assiment\Assiment.Services\obj\Debug\net7.0\ref\Assiment.Services.dll
+D:\job assiment\Job_Assiment\Assiment.Services\obj\Debug\net7.0\Assiment.Services.sourcelink.json

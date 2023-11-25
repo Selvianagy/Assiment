@@ -9,6 +9,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using Assiment.core.Interfaces;
+using ECommerce.Data.UnitOfWork;
 
 namespace Assiment.EF.Repositories
 {
@@ -77,11 +78,10 @@ namespace Assiment.EF.Repositories
 
         }
 
-        public void Delete(int id)
+        public void Delete(T entity)
         {
-            var entity = GetByID(id);
-           entity.IsDeleted = true;
             Update(entity, nameof(entity.IsDeleted));
+
         }
 
         public int GetCount()

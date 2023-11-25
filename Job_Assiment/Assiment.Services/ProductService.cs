@@ -97,7 +97,10 @@ namespace Assiment.EF.Services
         }
         public void Delete(int id)
         {
-            _repository.Delete(id);
+            Product product=_repository.GetByID(id);
+            product.IsDeleted = true;
+            _repository.Delete(product);
+            _unitOfWork.SaveChanges();
         }
 
         public IEnumerable<Product> Search(string searchProperty)

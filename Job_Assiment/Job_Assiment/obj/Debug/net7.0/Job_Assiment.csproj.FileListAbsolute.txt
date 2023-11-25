@@ -91,3 +91,4 @@ D:\job assiment\Job_Assiment\Job_Assiment\obj\Debug\net7.0\Job_Assiment.pdb
 D:\job assiment\Job_Assiment\Job_Assiment\obj\Debug\net7.0\Job_Assiment.genruntimeconfig.cache
 D:\job assiment\Job_Assiment\Job_Assiment\obj\Debug\net7.0\ref\Job_Assiment.dll
 D:\job assiment\Job_Assiment\Job_Assiment\obj\Debug\net7.0\Job_Assiment.MvcApplicationPartsAssemblyInfo.cs
+D:\job assiment\Job_Assiment\Job_Assiment\obj\Debug\net7.0\Job_Assiment.sourcelink.json

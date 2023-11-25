@@ -15,7 +15,7 @@ namespace Assiment.core.Interfaces
         T Add(T entity);
         void Update(T entity);
         void Update(T entity, params string[] properties);
-        void Delete(int id);
+        void Delete(T entity);
         int GetCount();
 
     }
