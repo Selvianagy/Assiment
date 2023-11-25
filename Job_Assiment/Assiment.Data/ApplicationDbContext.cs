@@ -1,4 +1,6 @@
-﻿using Assiment.core.Models;
+﻿
+using Assiment.core.Models;
+using ECommerce.Data.Extensions;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -22,6 +24,8 @@ namespace Assiment.EF
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.ApplyGlobalFilter(x => !x.IsDeleted);
+
 
         }
     }
